@@ -51,6 +51,3 @@ Traduzo necessidades do usuário em código funcional.
 
 ---
 *“Código bom não é o mais complexo — é o que resolve o problema real.”*
-
-IDIOMAS
-Inglês: Intermediário (leitura técnica fluida de docs, issues e artigos)
